@@ -1,2 +1,2 @@
 # data-pipeline-pyspark
-Creating first data pipeline using pyspark
+Production ETL pipeline using PySpark with optimizations and Delta Lake storage
